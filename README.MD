@@ -17,7 +17,7 @@ $ java -jar build/libs/mutant-finder-0.0.1-SNAPSHOT.jar
 
 ## Endpoints
 
-###POST /mutant
+### POST /mutant
 Request body:
 ```
 {
@@ -34,7 +34,7 @@ Header
 Content-Type: application/json 
 ```
 
-###GET /stats
+### GET /stats
 Header
 ```
 Content-Type: application/json 
